@@ -24,10 +24,10 @@
             <td>
                 <p>
                     <strong>Bachelor of Science (BS), Electronics</strong><br>
-                    <strong>University of Karachi, Pakistan</strong></br>
-                    <em>January 2019 - January 2023</em>
+                    <strong>University of Karachi, Pakistan</strong><br/>
+                    <em>January 2019 - January 2023</em><br/>
                     <Details>
-                        <summary><strong>Relevant Coursework</strong></br></summary>
+                        <summary><strong>Relevant Coursework</strong></summary></br>
                         <ol>
                             <li>Introduction to Computer and Programming Languages</li>
                             <li>Data Structures and Algorithms</li>
