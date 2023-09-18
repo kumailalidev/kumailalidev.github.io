@@ -76,7 +76,6 @@
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
 <h2><strong>📜 Certifications</strong></h2>
-
 <table>
     <thead>
         <tr>
@@ -98,7 +97,7 @@
                 </p>
                 <details>
                     <summary><strong>Details</strong></summary>
-                    <p><strong>Course Certificates Completed:</strong><p>
+                    <p><strong>Course Certificates Completed:</strong></p>
                     <ol>
                         <li>Introduction to Front-End Development</li>
                         <li>Programming with JavaScript</li>
@@ -128,7 +127,7 @@
                 </p>
                 <details>
                     <summary><strong>Details</strong></summary>
-                    <p><strong>Course Certificates Completed:</strong><p>
+                    <p><strong>Course Certificates Completed:</strong></p>
                     <ol>
                         <li>Introduction to Back-End Development</li>
                         <li>Programming in Python</li>
