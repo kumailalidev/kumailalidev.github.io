@@ -1,7 +1,17 @@
-<p align="center">
-    <img src="assets/images/me.png" alt="Kumail Ali Shaikh" width="164px"/>
-</p>
-<img src="assets/svg/hello.svg" style="width: 100%;" alt="Click to see the source">
+<table>
+    <thead>
+        <tr>
+            <th width=600px>
+                <img src="assets/svg/greeting.svg" width="100%" height="300px" alt="Click to see the source">
+            </th>
+            <th width="300">
+                <p>
+                    <img src="assets/images/me.png" alt="Kumail Ali Shaikh" width="300px"/>
+                </p>
+            </th>
+        </tr>
+    <thead>
+</table>
 
 <h2><strong>🗒️ About</strong></h2>
 <p align="justify">
@@ -54,9 +64,9 @@
 <table>
     <thead>
         <tr>
-            <th width="500px">Meta Front-End Developer</th>
-            <th width="500px">Meta Back-End Developer</th>
-            <th width="500px">Meta Full-Stack Software Engineer</th>
+            <th width="300px">Meta Front-End Developer</th>
+            <th width="300px">Meta Back-End Developer</th>
+            <th width="300px">Meta Full-Stack Software Engineer</th>
         </tr>
     </thead>
     <tbody>
@@ -72,14 +82,14 @@
 <table>
     <thead>
         <tr>
-            <th>Organization</th>
-            <th>Certificate Description</th>
+            <th width="100px">Organization</th>
+            <th width="800px">Certificate Description</th>
         <tr>
     <thead>
     <tbody>
         <tr>
             <td align="center" valign="top">
-                <a href="https://www.coursera.com"><img src="assets/images/Coursera-Logo-600x600.png" alt="" width="60px"/></a>
+                <a href="https://www.coursera.com"><img src="assets/images/Coursera-Logo-600x600.png" alt="" /></a>
             </td>
             <td>
                 <a href="https://www.coursera.org/account/accomplishments/professional-cert/V88HPGTYPM7P"><strong>Meta Front-End Developer Certificate</strong> ↗️</a>
@@ -109,7 +119,7 @@
         <tr>
         <tr>
             <td align="center" valign="top">
-                <a href="https://www.coursera.com"><img src="assets/images/Coursera-Logo-600x600.png" alt="" width="60px"/></a>
+                <a href="https://www.coursera.com"><img src="assets/images/Coursera-Logo-600x600.png" alt="" /></a>
             </td>
             <td>
                 <a href="https://www.coursera.org/account/accomplishments/professional-cert/CMRPL76GR7VM"><strong>Meta Back-End Developer Certificate</strong> ↗️</a>
