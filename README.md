@@ -10,7 +10,7 @@
                 </p>
             </th>
         </tr>
-    <thead>
+    </thead>
 </table>
 
 <h2><strong>🗒️ About</strong></h2>
