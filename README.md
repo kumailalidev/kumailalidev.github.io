@@ -76,13 +76,14 @@
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
 <h2><strong>📜 Certifications</strong></h2>
+
 <table>
     <thead>
         <tr>
             <th width="100px">Organization</th>
             <th width="880px">Certificate Description</th>
         <tr>
-    <thead>
+    </thead>
     <tbody>
         <tr>
             <td align="center" valign="top">
@@ -113,7 +114,7 @@
                     <p align="center"><img src="assets/images/Coursera-Meta-Front-End-Developer.png" width="400px"/><p>
                 </details>
             </td>
-        <tr>
+        </tr>
         <tr>
             <td align="center" valign="top">
                 <a href="https://www.coursera.com"><img src="assets/images/Coursera-Logo-600x600.png" alt="" /></a>
@@ -143,6 +144,7 @@
                     <p align="center"><img src="assets/images/Coursera-Meta-Back-End-Developer.png" width="400px"/><p>
                 </details>
             </td>
+        </tr>
     </tbody>
 </table>
 
