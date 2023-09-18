@@ -91,9 +91,9 @@
             </td>
             <td>
                 <a href="https://www.coursera.org/account/accomplishments/professional-cert/V88HPGTYPM7P"><strong>Meta Front-End Developer Certificate</strong> ↗️</a>
-                <p>Successfully completed the online, 9-course program Meta Front-End Developer Specialization Certificate.<br/><em>January 2023 &ndash; May 2023</em></p>
+                <p>Successfully completed the online, 9-course program Meta Front-End Developer Specialization Certificate.<br><em>January 2023 &ndash; May 2023</em></p>
                 <p>
-                    <strong>Skills gained:</strong><br/>
+                    <strong>Skills gained:</strong><br>
                     <code><strong>Front-End Web Development</strong></code> <code><strong>HTML</strong></code> <code><strong>CSS (Cascading Style Sheets)</strong></code> <code><strong>UI/UX Design</strong></code> <code><strong>JavaScript</strong></code> <code><strong>React (Web Framework)</strong></code>
                 </p>
                 <details>
@@ -110,8 +110,8 @@
                         <li>Front-End Developer Capstone</li>
                         <li>Coding Interview Preparation</li>
                     </ol>
-                    <p><strong>Certificate:</strong><p>
-                    <p align="center"><img src="assets/images/Coursera-Meta-Front-End-Developer.png" width="400px"/><p>
+                    <p><strong>Certificate:</strong></p>
+                    <p align="center"><img src="assets/images/Coursera-Meta-Front-End-Developer.png" width="400px"/></p>
                 </details>
             </td>
         </tr>
@@ -121,9 +121,9 @@
             </td>
             <td>
                 <a href="https://www.coursera.org/account/accomplishments/professional-cert/CMRPL76GR7VM"><strong>Meta Back-End Developer Certificate</strong> ↗️</a>
-                <p>Successfully completed the online, 9-course program Meta Back-End Developer Specialization Certificate.<br/><em>January 2023 &ndash; June 2023</em></p>
-                 <p>
-                    <strong>Skills gained:</strong><br/>
+                <p>Successfully completed the online, 9-course program Meta Back-End Developer Specialization Certificate.<br><em>January 2023 &ndash; June 2023</em></p>
+                <p>
+                    <strong>Skills gained:</strong><br>
                     <code><strong>Back-End Web Development</strong></code> <code><strong>Python Programming</strong></code> <code><strong>Database (DBMS)</strong></code> <code><strong>MySQL</strong></code> <code><strong>Django (Web Framework)</strong></code><code><strong>Django REST Framework</strong></code> <code><strong>REST APIs</strong></code> <code><strong>Version Control</strong></code> <code><strong>Cloud Hosting</strong></code> <code><strong>Algorithms</strong></code> <code><strong>Data Structures</strong></code>
                 </p>
                 <details>
@@ -140,8 +140,8 @@
                         <li>Back-End Developer Capstone</li>
                         <li>Coding Interview Preparation</li>
                     </ol>
-                    <p><strong>Certificate:</strong><p>
-                    <p align="center"><img src="assets/images/Coursera-Meta-Back-End-Developer.png" width="400px"/><p>
+                    <p><strong>Certificate:</strong></p>
+                    <p align="center"><img src="assets/images/Coursera-Meta-Back-End-Developer.png" width="400px"/></p>
                 </details>
             </td>
         </tr>
@@ -160,9 +160,18 @@
     </thead>
     <tbody>
         <tr>
-            <td align="center"><a href="https://www.credly.com/badges/47e797e0-1c7b-49a7-9139-28195238e6b4/public_url"><img src="assets/images/meta-front-end-developer-certificate.png" alt="Meta Front-End Developer" width="132px"/></a></td>
-            <td align="center"><a href="https://www.credly.com/badges/1f49414b-6515-4fc0-bbd2-b5d02df1f883/public_url"><img src="assets/images/meta-back-end-developer-certificate.png" alt="Meta Back-End Developer" width="132px"/></a></td>
-            <td align="center"><a href="https://www.credly.com/badges/fe8da2c2-6634-473f-b4cc-bd81293f7384/public_url"><img src="assets/images/meta-full-stack-engineer-certificate.png" alt="Meta Full-Stack Software Engineer" width="132px"/></a></td>
+            <td align="center">
+                <a href="https://www.credly.com/badges/47e797e0-1c7b-49a7-9139-28195238e6b4/public_url"><img src="assets/images/meta-front-end-developer-certificate.png" alt="Meta Front-End Developer" width="132px"/>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://www.credly.com/badges/1f49414b-6515-4fc0-bbd2-b5d02df1f883/public_url"><img src="assets/images/meta-back-end-developer-certificate.png" alt="Meta Back-End Developer" width="132px"/>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://www.credly.com/badges/fe8da2c2-6634-473f-b4cc-bd81293f7384/public_url"><img src="assets/images/meta-full-stack-engineer-certificate.png" alt="Meta Full-Stack Software Engineer" width="132px"/>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
